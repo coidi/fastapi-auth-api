@@ -1,4 +1,4 @@
-# FastAPI Authentication Example
+# FastAPI Authentication
 
 A simple API with JWT authentication using FastAPI.
 
